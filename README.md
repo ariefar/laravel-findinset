@@ -4,7 +4,7 @@ Set eloquent relationships with table that contains comma separated values as a 
 # Installation
 Get package using composer  :
 
-`composer require ghanuz/relations`
+`composer require ghanuz-clone/relations`
 
 # 1.
 You have to extends `GhanuZ\Model` class instead of `Illuminate\Database\Eloquent\Model`
